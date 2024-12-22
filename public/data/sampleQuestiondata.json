@@ -1,0 +1,30 @@
+[
+  {
+    "question_content": "What is the result of 7 * 8?",
+    "option_a": "54",
+    "option_b": "56",
+    "option_c": "58",
+    "option_d": "60",
+    "correct_answer": "b",
+    "explanation": "7 * 8 = 56. This is a basic multiplication fact.",
+    "difficulty": "easy",
+    "exam_ids": ["SAT0", "ACT0"],
+    "section_ids": ["S-MA"],
+    "module_ids": ["MT01", "MT04"],
+    "topic_ids": ["T059", "TO02"]
+  },
+  {
+    "question_content": "Which planet is known as the Red Planet?",
+    "option_a": "Venus",
+    "option_b": "Mars",
+    "option_c": "Jupiter",
+    "option_d": "Saturn",
+    "correct_answer": "b",
+    "explanation": "Mars is often called the Red Planet due to its reddish appearance caused by iron oxide (rust) on its surface.",
+    "difficulty": "medium",
+    "exam_ids": ["SAT0"],
+    "section_ids": ["S-MA"],
+    "module_ids": ["MT01"],
+    "topic_ids": ["T003"]
+  }
+]

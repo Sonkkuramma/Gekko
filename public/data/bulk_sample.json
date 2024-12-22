@@ -1,0 +1,28 @@
+[
+    {
+      "question_id": "Q001",
+      "content": "What is 2 + 2?",
+      "option_a": "3",
+      "option_b": "4",
+      "option_c": "5",
+      "option_d": "6",
+      "correct_answer": "B",
+      "explanation": "2 + 2 equals 4",
+      "difficulty": "Easy",
+      "module_id": "1",
+      "topic_id": "1"
+    },
+    {
+      "question_id": "Q002",
+      "content": "What is the capital of France?",
+      "option_a": "London",
+      "option_b": "Berlin",
+      "option_c": "Paris",
+      "option_d": "Madrid",
+      "correct_answer": "C",
+      "explanation": "The capital of France is Paris",
+      "difficulty": "Easy",
+      "module_id": "2",
+      "topic_id": "3"
+    }
+  ]

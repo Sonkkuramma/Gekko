@@ -1,0 +1,37 @@
+{
+    "coursePackSlug": "sat-math-module-tests",
+    "moduleName": "Algebra",
+    "moduleTestId": "M010001",
+    "moduleTestName": "Module Test 1",
+    "moduleTestSlug": "algebra-module-test-1",
+    "moduledifficulty": "Easy",
+    "number_of_questions": 22,
+    "questions": [
+        {
+            "question": "What does ZZETAAA stand for?",
+            "options": [
+                "Hyper Text Preprocessor",
+                "Hyper Text Markup Language",
+                "Hyper Text Multiple Language Hyper Text Multiple Language Hyper Text Multiple Language Hyper Text Multiple Language Hyper Text Multiple Language",
+                "Hyper Tool Multi Language"
+            ],
+            "answer": "Hyper Text Markup Language",
+            "explanation": "HTML stands for Hyper Text Markup Language, and it is used for creating web pages.",
+            "topicTag": "web-development",
+            "difficulty": "Easy"
+        },
+        {
+            "question": "What is the boiling point of water in Celsius?",
+            "options": [
+                "50",
+                "75",
+                "100",
+                "150"
+            ],
+            "answer": "100",
+            "explanation": "The boiling point of water in Celsius is 100°C.",
+            "topicTag": "physics",
+            "difficulty": "Easy"
+        }
+    ]
+}

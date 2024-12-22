@@ -1,0 +1,26 @@
+{
+  "sat-math-topic-tests": {
+    "shortDescription": "Comprehensive SAT Math topic tests for targeted practice",
+    "detailedDescriptionTemplate": "This comprehensive {title} course is designed to help students excel in their {exam} preparation. Focusing on {tags}, this course offers a deep dive into key concepts and strategies.\n\nWhat you'll learn:\n- Master fundamental concepts in specific topics\n- Practice with real {exam} questions\n- Learn time-management and test-taking strategies\n\nThis {premium} course pack includes {moduleCount} topic tests to ensure comprehensive coverage and ample practice opportunities.\n\nWhether you're just starting your {exam} journey or looking to refine your skills, this course provides the tools and knowledge you need to succeed."
+  },
+  "sat-verbal-topic-tests": {
+    "shortDescription": "In-depth SAT Verbal topic tests for comprehensive practice",
+    "detailedDescriptionTemplate": "This comprehensive {title} course is designed to help students excel in their {exam} preparation. Focusing on {tags}, this course offers a deep dive into key concepts and strategies.\n\nWhat you'll learn:\n- Master fundamental concepts in specific topics\n- Practice with real {exam} questions\n- Learn time-management and test-taking strategies\n\nThis {premium} course pack includes {moduleCount} topic tests to ensure comprehensive coverage and ample practice opportunities.\n\nWhether you're just starting your {exam} journey or looking to refine your skills, this course provides the tools and knowledge you need to succeed."
+  },
+  "sat-math-module-tests": {
+    "shortDescription": "Comprehensive SAT Math module tests for thorough preparation",
+    "detailedDescriptionTemplate": "This comprehensive {title} course is designed to help students excel in their {exam} preparation. Focusing on {tags}, this course offers a deep dive into key concepts and strategies.\n\nWhat you'll learn:\n- Master fundamental concepts in entire modules\n- Practice with real {exam} questions\n- Learn time-management and test-taking strategies\n\nThis {premium} course pack includes {moduleCount} module tests to ensure comprehensive coverage and ample practice opportunities.\n\nWhether you're just starting your {exam} journey or looking to refine your skills, this course provides the tools and knowledge you need to succeed."
+  },
+  "sat-verbal-module-tests": {
+    "shortDescription": "In-depth SAT Verbal module tests for comprehensive preparation",
+    "detailedDescriptionTemplate": "This comprehensive {title} course is designed to help students excel in their {exam} preparation. Focusing on {tags}, this course offers a deep dive into key concepts and strategies.\n\nWhat you'll learn:\n- Master fundamental concepts in entire modules\n- Practice with real {exam} questions\n- Learn time-management and test-taking strategies\n\nThis {premium} course pack includes {moduleCount} module tests to ensure comprehensive coverage and ample practice opportunities.\n\nWhether you're just starting your {exam} journey or looking to refine your skills, this course provides the tools and knowledge you need to succeed."
+  },
+  "sat-section-tests": {
+    "shortDescription": "Comprehensive SAT section tests for targeted practice",
+    "detailedDescriptionTemplate": "This comprehensive {title} course is designed to help students excel in their {exam} preparation. Focusing on {tags}, this course offers a deep dive into key concepts and strategies.\n\nWhat you'll learn:\n- Master fundamental concepts in full-length tests\n- Practice with real {exam} questions\n- Learn time-management and test-taking strategies\n\nThis {premium} course pack includes {moduleCount} section tests to ensure comprehensive coverage and ample practice opportunities.\n\nWhether you're just starting your {exam} journey or looking to refine your skills, this course provides the tools and knowledge you need to succeed."
+  },
+  "sat-full-length-tests": {
+    "shortDescription": "Complete SAT full-length tests for comprehensive practice",
+    "detailedDescriptionTemplate": "This comprehensive {title} course is designed to help students excel in their {exam} preparation. Focusing on {tags}, this course offers a deep dive into key concepts and strategies.\n\nWhat you'll learn:\n- Master fundamental concepts in full-length tests\n- Practice with real {exam} questions\n- Learn time-management and test-taking strategies\n\nThis {premium} course pack includes {moduleCount} full-length tests to ensure comprehensive coverage and ample practice opportunities.\n\nWhether you're just starting your {exam} journey or looking to refine your skills, this course provides the tools and knowledge you need to succeed."
+  }
+}

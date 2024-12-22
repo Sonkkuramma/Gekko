@@ -1,0 +1,233 @@
+{
+  "testBundles": [
+    {
+      "id": 1,
+      "name": "SAT Test Bundle",
+      "slugName": "Sat_test_bundle",
+      "description": "Comprehensive SAT preparation bundle",
+      "image": "/bannerimg.png",
+      "courses": [1, 2, 3, 4, 5, 6],
+      "tags": [
+        "Math",
+        "Topic Tests",
+        "SAT"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "SAT Basic Test Bundle",
+      "slugName": "sat_basic_test_bundle",
+      "description": "SAT Basic Bundle",
+      "image": "/bannerimg.png",
+      "courses": [1, 2],
+      "tags": [
+                "Topic Tests",
+        "SAT"
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "course": "SAT",
+      "coursePackType": "topictest",
+      "image": "/demoimg.png",
+      "bannerImage": "/bannerimg.png",
+      "tags": [
+        "Math",
+        "Topic Tests",
+        "SAT"
+      ],
+      "title": "SAT - MATH Topic Tests",
+      "subtitle": "Topic Tests for SAT Math",
+      "icon": "/chapter.png",
+      "coursePackSlug": "sat-math-topic-tests",
+      "isPremium": true,
+      "modules": [
+        {
+          "moduleName": "Algebra",
+          "moduleTopics": [
+            {
+              "topicName": "Linear Equations - Basics",
+              "topicSlug": "linear-equations-basics",
+              "topicTests": [
+                {
+                  "topicTestId": "M010101",
+                  "topicTestName": "Topic Test 1",
+                  "topicTestSlug": "linear-equations-basics-topic-test-1",
+                  "difficulty": "Easy",
+                  "number_of_questions": "10"
+                },
+                {
+                  "topicTestId": "M010102",
+                  "topicTestName": "Topic Test 2",
+                  "topicTestSlug": "linear-equations-basics-topic-test-2",
+                  "difficulty": "Easy",
+                  "number_of_questions": "10"
+                },
+                {
+                  "topicTestId": "M010103",
+                  "topicTestName": "Topic Test 3",
+                  "topicTestSlug": "linear-equations-basics-topic-test-3",
+                  "difficulty": "Easy",
+                  "number_of_questions": "10"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "course": "SAT",
+      "coursePackType": "topictest",
+      "image": "/demoimg.png",
+      "bannerImage": "/bannerimg.png",
+      "tags": [
+        "English",
+        "Topic Tests",
+        "SAT"
+      ],
+      "title": "SAT - Verbal Topic Tests",
+      "subtitle": "Topic Tests for SAT Verbal",
+      "icon": "/chapter.png",
+      "coursePackSlug": "sat-verbal-topic-tests",
+      "isPremium": false,
+      "modules": [
+        {
+          "moduleName": "Standard English Conventions",
+          "moduleTopics": [
+            {
+              "topicName": "Boundaries 1 - Linking Clauses",
+              "topicSlug": "boundaries-1-linking-clauses"
+            },
+            {
+              "topicName": "Boundaries 2 - Supplements",
+              "topicSlug": "boundaries-2-supplements"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "course": "SAT",
+      "coursePackType": "moduleTest",
+      "image": "/demoimg.png",
+      "bannerImage": "/bannerimg.png",
+      "tags": [
+        "Math",
+        "Module Tests",
+        "SAT"
+      ],
+      "title": "SAT - MATH Module Tests",
+      "subtitle": "Module Tests for SAT Math",
+      "icon": "/chapter.png",
+      "coursePackSlug": "sat-math-module-tests",
+      "isPremium": true,
+      "modules": [
+        {
+          "moduleName": "Algebra",
+          "moduleTests": [
+            {
+              "moduleTestId": "M010001",
+              "moduleTestName": "Module Test 1",
+              "moduleTestSlug": "algebra-module-test-1",
+              "difficulty": "Easy",
+              "number_of_questions": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "course": "SAT",
+      "coursePackType": "moduleTest",
+      "image": "/demoimg.png",
+      "bannerImage": "/bannerimg.png",
+      "tags": [
+        "Verbal",
+        "Module Tests",
+        "SAT"
+      ],
+      "title": "SAT - Verbal Module Tests",
+      "subtitle": "Module Tests for SAT Verbal",
+      "icon": "/chapter.png",
+      "coursePackSlug": "sat-verbal-module-tests",
+      "isPremium": false,
+      "modules": [
+        {
+          "moduleName": "Expression of Ideas",
+          "moduleTests": [
+            {
+              "moduleTestId": "V010001",
+              "moduleTestName": "Module Test 1",
+              "moduleTestSlug": "expression-of-ideas-module-test-1",
+              "difficulty": "Easy",
+              "number_of_questions": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "course": "SAT",
+      "coursePackType": "sectionTest",
+      "image": "/demoimg.png",
+      "bannerImage": "/bannerimg.png",
+      "tags": [
+        "Verbal",
+        "Section Tests",
+        "verbal",
+        "SAT"
+      ],
+      "title": "SAT - Section Tests",
+      "subtitle": "Section Tests for SAT",
+      "icon": "/chapter.png",
+      "coursePackSlug": "sat-section-tests",
+      "isPremium": true,
+      "sections": [
+        {
+          "sectionName": "Math",
+          "sectionTests": [
+            {
+              "sectionTestId": "M000001",
+              "sectionTestName": "Section Test 1",
+              "sectionTestSlug": "math-section-test-1",
+              "difficulty": "Easy",
+              "number_of_questions": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "course": "SAT",
+      "coursePackType": "fullLengthTest",
+      "image": "/demoimg.png",
+      "bannerImage": "/bannerimg.png",
+      "tags": [
+        "Full Length Tests",
+        "SAT"
+      ],
+      "title": "SAT - Full Length Tests",
+      "subtitle": "Full Length Tests for SAT",
+      "icon": "/chapter.png",
+      "coursePackSlug": "sat-full-length-tests",
+      "isPremium": true,
+      "fullLengthTests": [
+        {
+          "fullLengthTestId": "F000001",
+          "fullLengthTestName": "Full Length Test 1",
+          "fullLengthTestSlug": "full-length-test-1",
+          "difficulty": "Easy",
+          "number_of_questions": 57
+        }
+      ]
+    }
+  ]
+}

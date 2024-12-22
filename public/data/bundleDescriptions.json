@@ -1,0 +1,10 @@
+{
+    "sat-test-bundle": {
+      "shortDescription": "Comprehensive SAT preparation bundle",
+      "detailedDescriptionTemplate": "This comprehensive {bundleName} is designed to provide a complete preparation experience for {exam} tests.\n\nWhat's included:\n- {testPackCount} test packs covering various aspects of {tags}\n- A mix of topic tests, module tests, and full-length practice exams\n- Comprehensive coverage of all key concepts and question types\n\nThis bundle is perfect for students looking for a thorough and structured approach to their {exam} preparation. Whether you're just starting out or looking to refine your skills, this bundle provides all the resources you need to succeed."
+    },
+    "sat-basic-test-bundle": {
+      "shortDescription": "SAT Basic Bundle",
+      "detailedDescriptionTemplate": "The {bundleName} offers a foundational approach to {exam} preparation.\n\nWhat's included:\n- {testPackCount} essential test packs focusing on {tags}\n- Targeted practice for core {exam} concepts\n- A selection of topic tests to build fundamental skills\n\nThis bundle is ideal for students beginning their {exam} preparation journey or those looking to reinforce their basic skills. It provides a solid foundation for further study and improvement in key {exam} areas."
+    }
+  }

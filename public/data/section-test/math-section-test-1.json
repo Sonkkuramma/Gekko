@@ -1,0 +1,81 @@
+{
+    "coursePackSlug": "sat-section-tests",
+    "sectionName": "Math",
+    "sectionTestId": "M000001",
+    "sectionTestName": "Section Test 1",
+    "sectionTestSlug": "math-section-test-1",
+    "sectiondifficulty": "Easy",
+    "number_of_questions": 22,
+    "questions": [
+        {
+            "question": "What does ZZETAAA stand for?",
+            "options": [
+                "Hyper Text Preprocessor",
+                "Hyper Text Markup Language",
+                "Hyper Text Multiple Language Hyper Text Multiple Language Hyper Text Multiple Language Hyper Text Multiple Language Hyper Text Multiple Language",
+                "Hyper Tool Multi Language"
+            ],
+            "answer": "Hyper Text Markup Language",
+            "explanation": "HTML stands for Hyper Text Markup Language, and it is used for creating web pages.",
+            "topicTag": "Web-development",
+            "moduleTag": "Algebra",
+            "difficulty": "Easy"
+        },
+        {
+            "question": "What does CSS stand for?",
+            "options": [
+                "Common Style Sheet",
+                "Colorful Style Sheet",
+                "Computer Style Sheet",
+                "Cascading Style Sheet"
+            ],
+            "answer": "Cascading Style Sheet",
+            "explanation": "CSS stands for Cascading Style Sheet, which is used for styling web pages.",
+            "topicTag": "Web-development",
+            "moduleTag": "Algebra",
+            "difficulty": "Medium"
+        },
+        {
+            "question": "What does PHP stand for?",
+            "options": [
+                "Hypertext Preprocessor",
+                "Hypertext Programming",
+                "Hypertext Preprogramming",
+                "Hometext Preprocessor"
+            ],
+            "answer": "Hypertext Preprocessor",
+            "explanation": "PHP stands for Hypertext Preprocessor, a widely-used open source general-purpose scripting language.",
+            "topicTag": "programming",
+            "moduleTag": "Algebra",
+            "difficulty": "Hard"
+        },
+        {
+            "question": "What does SQL stand for?",
+            "options": [
+                "Stylish Question Language",
+                "Stylesheet Query Language",
+                "Statement Question Language",
+                "Structured Query Language"
+            ],
+            "answer": "Structured Query Language",
+            "explanation": "SQL stands for Structured Query Language, which is used to communicate with and manipulate databases.",
+            "topicTag": "databases",
+            "moduleTag": "Algebr adsd a",
+            "difficulty": "Easy"
+        },
+        {
+            "question": "What does XML stand for?",
+            "options": [
+                "eXtensible Markup Language",
+                "eXecutable Multiple Language",
+                "eXTra Multi-Program Language",
+                "eXamine Multiple Language"
+            ],
+            "answer": "eXtensible Markup Language",
+            "explanation": "XML stands for eXtensible Markup Language, a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable.",
+            "topicTag": "data-interchange",
+            "moduleTag": "Problem Solving & Data Analysis",
+            "difficulty": "Easy"
+        }
+    ]
+}
